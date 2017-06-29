@@ -1,9 +1,23 @@
 body {
     background-color: maroon;
+	background-image: url("http://cdn.wallpapersafari.com/80/91/PAIG7h.jpg");
+	background-repeat: no-repeat;
+	background-size: 1500px 1000px;
+	font-family: verdana;
 }
 h1 {
-    color: blue;
+    text-align: center;
+	color: black;
+	border: 1px solid blue;
+	padding: 30px
 }
 p {
     color: red;
+}
+#ref1 {
+	margin: 50px;
+	color: black;
+}
+#ref1title {
+	margin: 50px;
 }
