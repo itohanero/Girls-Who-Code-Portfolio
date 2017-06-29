@@ -14,10 +14,10 @@ h1 {
 p {
     color: red;
 }
-#ref1 {
+.ref1 {
 	margin: 50px;
 	color: black;
 }
-#ref1title {
+.reftitle {
 	margin: 50px;
 }
