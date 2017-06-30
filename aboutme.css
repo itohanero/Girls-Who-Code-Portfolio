@@ -1,5 +1,4 @@
 body {
-    background-color: maroon;
 	background-image: url("http://cdn.wallpapersafari.com/80/91/PAIG7h.jpg");
 	background-repeat: no-repeat;
 	background-size: 1500px 1000px;
@@ -7,17 +6,39 @@ body {
 }
 h1 {
     text-align: center;
+	font-family: tahoma;
 	color: black;
-	border: 1px solid blue;
-	padding: 30px
+	font-size: 40px;
+	padding: 0px;
 }
 p {
     color: red;
 }
-.ref1 {
+p.ref1 {
 	margin: 50px;
 	color: black;
 }
-.reftitle {
+h2.reftitle {
 	margin: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 0;
+    overflow: hidden;
+	background-color: white;
+}
+li {
+    float: left;
+}
+
+li a {
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: yellow;
 }
