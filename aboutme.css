@@ -12,15 +12,9 @@ h1 {
 	padding: 0px;
 }
 p {
-    color: red;
+    color: black;
 }
-p.ref1 {
-	margin: 50px;
-	color: black;
-}
-h2.reftitle {
-	margin: 50px;
-}
+
 ul {
     list-style-type: none;
     margin: 2px;
