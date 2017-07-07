@@ -15,7 +15,7 @@ p {
     color: black;
 }
 
-ul {
+ul.head {
     list-style-type: none;
     margin: 2px;
     padding: 0;
