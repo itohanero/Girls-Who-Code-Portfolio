@@ -15,24 +15,30 @@ p {
     color: black;
 }
 
-ul {
+div.name {
+	background-color: powderblue;
+	color:white;
+	padding:20px;
+}
+	
+div ul {
     list-style-type: none;
     margin: 2px;
-    padding: 0;
+    padding: 20;
     overflow: hidden;
 	background-color: white;
 }
-li {
+div li {
     float: left;
 }
 
-li a {
+div li a {
 	display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-li a:hover {
-    background-color: yellow;
+div li a:hover{
+    background-color: lightcyan;
 }
