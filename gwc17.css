@@ -11,31 +11,52 @@ h1 {
 	font-size: 40px;
 	padding: 0px;
 }
+h2.day {
+	color: black;
+}	
+h2.week {
+	margin:50px;
+}
 p.ref1 {
-	margin: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
 	color: black;
 }
 h2.reftitle {
-	margin: 50px;
+	margin-left: 50px;
+	color: blueviolet;
 }
-ul {
+div.name {
+	background-color: powderblue;
+	color:white;
+	padding:20px;
+}
+	
+div ul.name {
     list-style-type: none;
     margin: 2px;
-    padding: 0;
+    padding: 20;
     overflow: hidden;
 	background-color: white;
 }
-li {
+div li.name {
     float: left;
 }
 
-li a {
+div li a.name {
 	display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-li a:hover {
-    background-color: yellow;
+div li a.name:hover{
+    background-color: lightcyan;
+}
+
+img src {
+	margin-bottom: 50px:
+}
+div.core4 {
+	margin-left: 50px;
 }
