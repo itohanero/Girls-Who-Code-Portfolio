@@ -1,2 +1,2 @@
-# summary of work compelted during 2017 Girls Who Code SIP Program
+# Summary of Work Completed during 2017 Girls Who Code SIP Program
 
